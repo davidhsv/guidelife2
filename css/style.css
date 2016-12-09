@@ -125,6 +125,7 @@ img {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
+  background: #0f417d;
 }
 
 .navbar {
@@ -137,6 +138,10 @@ img {
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
   background-color: transparent;
+}
+
+.pag-1__navbar-container {
+	background: white;
 }
 
 .pag-2 {
@@ -159,9 +164,9 @@ img {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/bg-slider-pagina2.jpg');
+  /*background-image: url('../images/bg-slider-pagina2.jpg');
   background-position: 50% 0px;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .navbar__links {
