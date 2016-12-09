@@ -31,6 +31,16 @@ img {
   max-width: 100%;
 }
 
+.seta-container {
+	position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
 .icone-facebook {
   width: 28px;
   margin-top: 11px;
@@ -1487,6 +1497,7 @@ html.w-mod-js *[data-ix="display-none"] {
   .slider__texto {
     font-size: 40px;
   }
+
   .pag-3__parte2 {
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
