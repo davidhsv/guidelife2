@@ -29,6 +29,10 @@ img {
   max-width: 100%;
 }
 
+#link-video{
+	text-decoration: none;
+}
+
 .seta-container {
 	position: absolute;
     left: 0;
