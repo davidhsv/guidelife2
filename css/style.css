@@ -1508,6 +1508,7 @@ img {
   align-self: flex-start;
   color: #fff;
   line-height: 1em;
+  text-align: left;
 }
 
 .footer__center {
