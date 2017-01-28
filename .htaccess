@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^franquias.guidelife.com.br
-RewriteRule ^(.*)$ http://franquias.guidelife.com.br/franquias/$1 [L,NC,QSA]
