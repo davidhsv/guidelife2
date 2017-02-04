@@ -23,7 +23,7 @@ function stabilizeVH(element) {
     update()
 }
 
-var elements = document.querySelectorAll(".stabilizeVH");
-for (var i = 0; i < elements.length; i++) {
+//var elements = document.querySelectorAll(".stabilizeVH");
+//for (var i = 0; i < elements.length; i++) {
     //stabilizeVH(elements[i]);
-}
+//}
