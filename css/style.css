@@ -181,6 +181,14 @@ img {
   background-size: cover;*/
 }
 
+.pag-2__imginfo-mobile {
+  display: none;
+} 
+
+.pag-2__imginfo-desktop {
+  display: block;
+}
+
 .navbar__links {
   color: maroon;
 }
@@ -1608,6 +1616,7 @@ html.w-mod-js *[data-ix="display-none"] {
   .pag-2 {
     background-position: 72% 50%;
   }
+
   .hamburguer__icone {
     color: #124271;
   }
@@ -1839,6 +1848,20 @@ html.w-mod-js *[data-ix="display-none"] {
   }
   .pag-9_e_4__subheader.azulado {
     font-size: 20px;
+  }
+  .pag-2 {
+    height: 100%;
+    padding: 20px;
+  }
+  .pag-2__imginfo-mobile {
+    display: block;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+  } 
+
+  .pag-2__imginfo-desktop {
+    display: none;
   }
   .pag-2__texto {
     font-size: 21px;
