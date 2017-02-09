@@ -85,7 +85,11 @@ img {
     transform: translate(-50%,-50%);
   }
 
-  .slide1__play-button:hover {
+  .w-mod-ios video {
+    display:none;
+  }
+
+  .slide1__play-button:hover, .slide1__play-button:active{
     transform: translate(-50%,-50%) scale(1.1);
     opacity: 1;
     -webkit-transition: all 0.3s;
