@@ -76,6 +76,23 @@ img {
   margin-top: 21px;
 }
 
+.slide1__play-button {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 170px;
+    opacity: 0.85;
+    transform: translate(-50%,-50%);
+  }
+
+  .slide1__play-button:hover {
+    transform: translate(-50%,-50%) scale(1.1);
+    opacity: 1;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+
 .navbar__link {
   margin-top: 0px;
   padding-right: 37px;
