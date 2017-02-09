@@ -813,7 +813,7 @@ img {
   font-weight: 700;
 }
 
-.pag-6__card__content__texto {
+.pag-6__card__content__texto a {
   color: #496c9f;
   font-size: 18px;
   line-height: 17px;
@@ -1009,7 +1009,7 @@ img {
 
 .pag-3__slider__card {
   overflow: visible;
-  max-width: 260px;
+  max-width: 300px;
   border-radius: 5px;
   background-color: #fff;
   margin: 30px 0;
@@ -1026,7 +1026,7 @@ img {
   padding-left: 20px;
   color: #496c9f;
   letter-spacing: 0.3px;
-  max-height: 300px;
+  max-height: 330px;
   overflow: overlay;
   font-size: 13px;
   text-align: left;
