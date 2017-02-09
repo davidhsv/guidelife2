@@ -1930,6 +1930,7 @@ html.w-mod-js *[data-ix="display-none"] {
     font-size: 20px;
   }
   .pag-7__tabsmenu {
+  	width: 100%;
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
